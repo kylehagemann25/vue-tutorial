@@ -3,7 +3,6 @@
 > A Vue.js project
 
 ## Build Setup
-NOTE: You must first create a folder title 'static' in the vue-tutorial-master directory, then follow steps below.
 
 ``` bash
 # install dependencies
